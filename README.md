@@ -19,6 +19,6 @@ keep in mind that graph.html is dependant on files inside **assets/** directory 
 example:
 ![Example 1](/examples/example_1.png)
 
-Every time that you refresh the page the layout is different, you can even moove freely each node of the board.
+Every time that you refresh the page the layout is different, you can even move freely each node of the board.
 
 Enjoy :)
